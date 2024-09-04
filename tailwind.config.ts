@@ -9,21 +9,21 @@ export default {
 	theme: {
 		extend: {
 			fontFamily: {
-				sans: ["Radio Canada Big", ...defaultTheme.fontFamily.sans],
+				sans: ["Figtree", ...defaultTheme.fontFamily.sans],
 			},
 			colors: {
 				// flowbite-svelte
 				primary: {
-					"50": "#ecfeff",
-					"100": "#cffafe",
-					"200": "#a5f3fc",
-					"300": "#67e8f9",
-					"400": "#22d3ee",
-					"500": "#06b6d4",
-					"600": "#0891b2",
-					"700": "#0e7490",
-					"800": "#155e75",
-					"900": "#164e63",
+					"50": "#fef2e0",
+					"100": "#fedeb1",
+					"200": "#fcc97f",
+					"300": "#fbb24d",
+					"400": "#faa227",
+					"500": "#f99206",
+					"600": "#f58606",
+					"700": "#ef7706",
+					"800": "#e96706",
+					"900": "#df4c05",
 				},
 			},
 		},
